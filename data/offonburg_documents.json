@@ -1,0 +1,515 @@
+[
+  {
+    "content": "Restaurant name: مجموعه غذایی آفان\nAddress: بلوار الغدیر، کوچه27، مجتمع دیوان\nPhone: 02532858006\nFood types: غذاهای سالم و گیاهی, فست‌فود, ساندویچ-همبرگر-هاتداگ\nService hours: سرویس دهی آنلاین صبحانه ناهار شام شنبه تا جمعه - از 12:00 تا 16:00 از 16:00 تا 23:59 آدرس رستوران بلوار الغدیر، کوچه27، مجتمع دیوان تلفن: 02532858006 نوع غذا غذاهای سالم و گیاهی فست فود ساندویچ\n\nAdditional restaurant information:\nاین رستوران در سال 1405 توسط اقای محمد جواد رضایی  افتتاح شد  و به صورت تخصصی با پیاده سازی تکنیک های علمی وشروع به ارائه همبرگر و ساندویج کرده اند. اف ان یا offon یعنی روزمرگی ات را خاموش کن و از دنیا غذا لذت ببر.",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "restaurant_information"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: اف لایت\nIngredients:\n- ۱ عدد برگر ۱۴۰ گرمی، ۱۰۰٪ گوشت اسمش\n- گوجه\n- نان\n- سس ویژه کف نان، ۸۰ گرم\n- سالاد سیب‌زمینی (ساید دیش)\n- سس فلفل دودی\n- سس خیار سیر\nPrice: Not available\nAvailability: available\nDescription: 1 عدد برگر 140 گرمی 100% گوشت اسمش ، ، گوجه ، نان ، سس ویژه کف نان 80 گرم ، ساید دیش : سالاد سیب زمینی ، سس فلفل دودی ، سس خیار سیر",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "اف لایت",
+      "category": "ساندویچ",
+      "price_toman": null,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: آن پرایم\nIngredients:\n- ۱ عدد برگر ۱۴۰ گرمی، ۱۰۰٪ گوشت اسمش\n- ۵۰ گرم سیب سبز کاراملی‌شده\n- گوجه، ۲۰ گرم\n- نان\n- سس ویژه کف نان، ۸۰ گرم\n- سالاد سیب‌زمینی (ساید دیش)\n- سس فلفل دودی\n- سس خیار سیر\nPrice: 640000 toman\nAvailability: available\nDescription: 1 عدد برگر 140 گرمی 100% گوشت اسمش ، 50 گرم سیب سبز کاراملی شده ، ، گوجه 20 گرم ، نان ، سس ویژه کف نان 80 گرم ، ساید دیش : سالاد سیب زمینی ، سس فلفل دودی ، سس خیار سیر",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "آن پرایم",
+      "category": "ساندویچ",
+      "price_toman": 640000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: اومامی آن\nIngredients:\n- ۱ عدد برگر ۱۴۰ گرمی، ۱۰۰٪ گوشت اسمش\n- گوجه\n- نان\n- سس ماشروم، ۸۰ گرم\n- سالاد سیب‌زمینی (ساید دیش)\n- سس فلفل دودی\n- سس خیار سیر\nPrice: 650000 toman\nAvailability: available\nDescription: 1 عدد برگر 140 گرمی 100% گوشت اسمش ، ، گوجه ، نان ، سس ماشروم 80 گرم ، ساید دیش : سالاد سیب زمینی ، سس فلفل دودی ، سس خیار سیر",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "اومامی آن",
+      "category": "ساندویچ",
+      "price_toman": 650000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: آن بوست\nIngredients:\n- گوشت شردشده کونفی‌شده\n- ۱ عدد برگر ۱۴۰ گرمی، ۱۰۰٪ گوشت اسمش\n- گوجه\n- نان\n- سس ویژه کف نان، ۸۰ گرم\n- سالاد سیب‌زمینی (ساید دیش)\n- سس فلفل دودی\n- سس خیار سیر\nPrice: 711000 toman\nAvailability: available\nDescription: گوشت شرددد شده کونفی شده ، 1 عدد برگر 140 گرمی 100% گوشت اسمش ، ، گوجه ، نان ، سس ویژه کف نان 80 گرم ، ساید دیش : سالاد سیب زمینی ، سس فلفل دودی ، سس خیار سیر",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "آن بوست",
+      "category": "ساندویچ",
+      "price_toman": 711000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: آن فایر\nIngredients:\n- سس هالندایز هالوپینو\n- ۵۰ گرم پیاز کاراملی\n- ۱ عدد برگر ۱۴۰ گرمی، ۱۰۰٪ گوشت اسمش\n- گوجه\n- نان\n- سس ویژه کف نان، ۸۰ گرم\n- سالاد سیب‌زمینی (ساید دیش)\n- سس فلفل دودی\n- سس خیار سیر\nPrice: 595000 toman\nAvailability: available\nDescription: سس هالندایز هالوپینو ، 50 گرم پیاز کاراملی ،1 عدد برگر 140 گرمی 100% گوشت اسمش ، ، گوجه ، نان ، سس ویژه کف نان 80 گرم ، ساید دیش : سالاد سیب زمینی ، سس فلفل دودی ، سس خیار سیر",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "آن فایر",
+      "category": "ساندویچ",
+      "price_toman": 595000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: هات آن داگ\nIngredients:\n- ۱ عدد هات‌داگ ویژه\n- پیاز کاراملی\n- سس هالندایز هالوپینو\n- ۲۰ گرم کلم ژولین\nPrice: 580000 toman\nAvailability: None\nDescription: 1 عدد هات داگ ویژه ، پیاز کاراملی ، سس هالندایز هالوپینو ، 20 گرم کلم ژولین",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "هات آن داگ",
+      "category": "ساندویچ",
+      "price_toman": 580000,
+      "availability": null
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: چیز سوئیچ\nIngredients:\n- ۱ عدد برگر ۱۴۰ گرمی، ۱۰۰٪ گوشت اسمش\n- پنیر گودا\n- گوجه\n- نان\n- سس ویژه کف نان\n- سالاد سیب‌زمینی (ساید دیش)\n- سس فلفل دودی\n- سس خیار سیر\nPrice: 545000 toman\nAvailability: available\nDescription: 1 عدد برگر 140 گرمی 100% گوشت اسمش ، پنیر گودا. گوجه، نان ، سس ویژه کف نان ، ساید دیش : سالاد سیب زمینی ، سس فلفل دودی ، سس خیار سیر",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "چیز سوئیچ",
+      "category": "ساندویچ",
+      "price_toman": 545000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: چیکن آن\nIngredients:\n- ۱۴۰ گرم برگر مرغ\n- پنیر گودا\n- گوجه‌فرنگی\n- سس اسپشیال\nPrice: 480000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "چیکن آن",
+      "category": "ساندویچ",
+      "price_toman": 480000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: افانبرگ\nIngredients:\n- Not available\nPrice: 685000 toman\nAvailability: available\nDescription: 140 گرم برگر مرغ-پنیر گودا-گوچه فرنگی-سس اسپشیال",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "افانبرگ",
+      "category": "ساندویچ",
+      "price_toman": 685000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: هات داگ\nIngredients:\n- Not available\nPrice: 399000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "هات داگ",
+      "category": "ساندویچ",
+      "price_toman": 399000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: چدار فالز\nIngredients:\n- Not available\nPrice: 840000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "چدار فالز",
+      "category": "ساندویچ",
+      "price_toman": 840000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: چیز فالز\nIngredients:\n- Not available\nPrice: 764000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "چیز فالز",
+      "category": "ساندویچ",
+      "price_toman": 764000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: سالسا برگ\nIngredients:\n- Not available\nPrice: 680000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سالسا برگ",
+      "category": "ساندویچ",
+      "price_toman": 680000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: ساندویچ\nItem name: چری برگ\nIngredients:\n- Not available\nPrice: 790000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "چری برگ",
+      "category": "ساندویچ",
+      "price_toman": 790000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: اسپشیال\nItem name: سوئیچ پک\nIngredients:\n- ۴ عدد برگر ۷۰ گرمی در ۴ طعم مختلف\nPrice: 1125000 toman\nAvailability: available\nDescription: 4 عدد برگر 70 گرمی در 4طعم مختلف",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سوئیچ پک",
+      "category": "اسپشیال",
+      "price_toman": 1125000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: اسپشیال\nItem name: فول پاور میل\nIngredients:\n- ۱ عدد هات‌داگ\n- ۱ عدد برگر مدیترانه‌ای\n- ۱ عدد بیف اسمش برگر\n- ۱ عدد کاراملایز اپل برگر\nPrice: 1150000 toman\nAvailability: unavailable\nDescription: یک عدد هات داگ ، یک عدد برگر مدیترانه ایی ، یک عدد بیف اسمش برگر ، یک عدد کارمالایز اپل برگر",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "فول پاور میل",
+      "category": "اسپشیال",
+      "price_toman": 1150000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سالاد و پیش غذا\nItem name: پاور فرایز\nIngredients:\n- ۲۰۰ گرم چیپس سیب‌زمینی\n- ۵۰ گرم سیب سبز کاراملی\n- سیزنینگ سیب‌زمینی\nPrice: 355000 toman\nAvailability: available\nDescription: 200 گرم چیپس سیب زمینی ، 50 گرم سیب سبز کاراملی ، سیزنینگ سیب زمینی",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "پاور فرایز",
+      "category": "سالاد و پیش غذا",
+      "price_toman": 355000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سالاد و پیش غذا\nItem name: اف فرایز\nIngredients:\n- ۳۵۰ گرم سیب‌زمینی سوخاری دست‌ساز\nPrice: 290000 toman\nAvailability: available\nDescription: 350 گرم سیب زمینی سوخاری دست ساز",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "اف فرایز",
+      "category": "سالاد و پیش غذا",
+      "price_toman": 290000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سالاد و پیش غذا\nItem name: سالاد گرین آن\nIngredients:\n- نصف کاهو پیچ\n- ۲ عدد فیله مرغ سوخاری\n- ۱۰۰ گرم سس آنتروکت\n- ۱۰ گرم کیپرز\n- گردو کونفی\n- پنیر پارمزان\nPrice: 460000 toman\nAvailability: available\nDescription: نصف کاهو پیچ ، 2 عدد فیله مرغ سوخاری ، 100 گرم سس آنتروکت ، کیپرز 10 گرم ، گردو کونفی ، پنیر پارمزان",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سالاد گرین آن",
+      "category": "سالاد و پیش غذا",
+      "price_toman": 460000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سالاد و پیش غذا\nItem name: فرنچ فرایز\nIngredients:\n- ۳۰۰ گرم سیب‌زمینی سرخ‌کرده\nPrice: 295000 toman\nAvailability: available\nDescription: 300 گرم سیب زمینی سرخ کرده",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "فرنچ فرایز",
+      "category": "سالاد و پیش غذا",
+      "price_toman": 295000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سالاد و پیش غذا\nItem name: چیکن استریپس\nIngredients:\n- Not available\nPrice: 590000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "چیکن استریپس",
+      "category": "سالاد و پیش غذا",
+      "price_toman": 590000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سس ها\nItem name: سس کچاپ باربیکیو\nIngredients:\n- Not available\nPrice: 60000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سس کچاپ باربیکیو",
+      "category": "سس ها",
+      "price_toman": 60000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سس ها\nItem name: سس چیلی\nIngredients:\n- سس فلفل دودی تند و شیرین\nPrice: 60000 toman\nAvailability: available\nDescription: سس فلفل دودی تند و شیرین",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سس چیلی",
+      "category": "سس ها",
+      "price_toman": 60000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سس ها\nItem name: سس سیر\nIngredients:\n- سس سیر\nPrice: 60000 toman\nAvailability: available\nDescription: سس سیر",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سس سیر",
+      "category": "سس ها",
+      "price_toman": 60000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سس ها\nItem name: سس قارچ\nIngredients:\n- Not available\nPrice: 90000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سس قارچ",
+      "category": "سس ها",
+      "price_toman": 90000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سس ها\nItem name: سس چدار\nIngredients:\n- Not available\nPrice: 90000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سس چدار",
+      "category": "سس ها",
+      "price_toman": 90000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سس ها\nItem name: سس مخصوص پستو\nIngredients:\n- Not available\nPrice: 70000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سس مخصوص پستو",
+      "category": "سس ها",
+      "price_toman": 70000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: سس ها\nItem name: پیاز کاراملی\nIngredients:\n- Not available\nPrice: 50000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "پیاز کاراملی",
+      "category": "سس ها",
+      "price_toman": 50000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: کوکا\nIngredients:\n- Not available\nPrice: 85000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "کوکا",
+      "category": "نوشیدنی",
+      "price_toman": 85000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: فانتا\nIngredients:\n- Not available\nPrice: 85000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "فانتا",
+      "category": "نوشیدنی",
+      "price_toman": 85000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: سپرایت\nIngredients:\n- Not available\nPrice: 85000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "سپرایت",
+      "category": "نوشیدنی",
+      "price_toman": 85000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: زیرو\nIngredients:\n- Not available\nPrice: 85000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "زیرو",
+      "category": "نوشیدنی",
+      "price_toman": 85000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: آب معدنی کوچک\nIngredients:\n- Not available\nPrice: 25000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "آب معدنی کوچک",
+      "category": "نوشیدنی",
+      "price_toman": 25000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: دلسترهلو\nIngredients:\n- Not available\nPrice: 90000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "دلسترهلو",
+      "category": "نوشیدنی",
+      "price_toman": 90000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: دلسترلیمو\nIngredients:\n- Not available\nPrice: 90000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "دلسترلیمو",
+      "category": "نوشیدنی",
+      "price_toman": 90000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: دلستراستوایی\nIngredients:\n- Not available\nPrice: 90000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "دلستراستوایی",
+      "category": "نوشیدنی",
+      "price_toman": 90000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: موهیتو\nIngredients:\n- Not available\nPrice: 300000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "موهیتو",
+      "category": "نوشیدنی",
+      "price_toman": 300000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: دلستر قوطی\nIngredients:\n- Not available\nPrice: 55000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "دلستر قوطی",
+      "category": "نوشیدنی",
+      "price_toman": 55000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: نوشیدنی\nItem name: لیموناد\nIngredients:\n- Not available\nPrice: 295000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "لیموناد",
+      "category": "نوشیدنی",
+      "price_toman": 295000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: اضافات\nItem name: مینی برگر\nIngredients:\n- Not available\nPrice: 285000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "مینی برگر",
+      "category": "اضافات",
+      "price_toman": 285000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: اضافات\nItem name: مینی فرایز 100 گرمی\nIngredients:\n- Not available\nPrice: 55000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "مینی فرایز 100 گرمی",
+      "category": "اضافات",
+      "price_toman": 55000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: اضافات\nItem name: مرغ اضافه\nIngredients:\n- Not available\nPrice: 210000 toman\nAvailability: available\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "مرغ اضافه",
+      "category": "اضافات",
+      "price_toman": 210000,
+      "availability": "available"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: اضافات\nItem name: گوشت همبرگر140گرمی\nIngredients:\n- Not available\nPrice: 250000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "گوشت همبرگر140گرمی",
+      "category": "اضافات",
+      "price_toman": 250000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: اضافات\nItem name: پنیر ورقه ای گودا\nIngredients:\n- Not available\nPrice: 30000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "پنیر ورقه ای گودا",
+      "category": "اضافات",
+      "price_toman": 30000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: اضافات\nItem name: نان همبرگر\nIngredients:\n- Not available\nPrice: 30000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "نان همبرگر",
+      "category": "اضافات",
+      "price_toman": 30000,
+      "availability": "unavailable"
+    }
+  },
+  {
+    "content": "Restaurant: مجموعه غذایی آفان\nCategory: اضافات\nItem name: نان مینی برگر\nIngredients:\n- Not available\nPrice: 20000 toman\nAvailability: unavailable\nDescription: None",
+    "metadata": {
+      "source": "offonburg_clean_rag.json",
+      "document_type": "menu_item",
+      "item_name": "نان مینی برگر",
+      "category": "اضافات",
+      "price_toman": 20000,
+      "availability": "unavailable"
+    }
+  }
+]

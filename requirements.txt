@@ -1,0 +1,10 @@
+openai==3.13.0
+python-dotenv==1.2.3
+pydantic
+fastapi
+uvicorn
+sentence-transformers
+numpy
+langgraph
+pyTelegramBotAPI>=4.29,<5.0
+rapidfuzz>=3.0,<4.0

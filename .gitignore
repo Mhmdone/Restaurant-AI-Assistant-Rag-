@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.venv/
+.env
+orders.db
+memory.db
+memory.db-*
+__pycache__/
+documents/
