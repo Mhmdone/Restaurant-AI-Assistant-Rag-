@@ -1,4 +1,4 @@
-# OffOn Restaurant AI Assistant
+# OffOn Restaurant AI Assistant (RAG-based)
 
 دستیار هوش مصنوعی رستوران آفان یک سامانه پرسش‌وپاسخ مبتنی بر **RAG** است. این پروژه اطلاعات رستوران و منوی غذاها را از فایل JSON می‌خواند، برای اسناد embedding می‌سازد، سؤال کاربر را دسته‌بندی می‌کند و پاسخ را بر اساس اطلاعات واقعی رستوران تولید می‌کند.
 
@@ -446,3 +446,10 @@ API این headerها را نیز برمی‌گرداند:
 1. افزودن تست‌های خودکار برای Router و retrieval
 2. اضافه‌کردن ارزیابی کیفیت RAG با مجموعه سؤال و پاسخ مرجع
 3. افزودن logging ساختاریافته و monitoring در محیط production
+
+## OffOn Burg Information
+Telegram bot
+@offonchatbot
+
+Site
+https://offonburg.ir
