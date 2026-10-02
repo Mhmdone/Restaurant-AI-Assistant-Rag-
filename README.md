@@ -1,4 +1,4 @@
-# OffOn Restaurant AI Assistant
+# OffOn Restaurant AI Assistant (RAG-based)
 
 The OffOn restaurant AI assistant is a **RAG-based** question-answering system. It reads restaurant and menu information from a JSON file, creates embeddings for the documents, classifies user questions, and generates answers based on the restaurant's actual information.
 
@@ -447,3 +447,9 @@ After changing menu text or source JSON, always run both `rag_loader` and `embed
 2. Add RAG quality evaluation with a reference question-answer dataset.
 3. Add structured logging and production monitoring.
 
+## OffOn Burg Information
+Telegram bot
+@offonchatbot
+
+Site
+https://offonburg.ir
